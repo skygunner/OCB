@@ -31,7 +31,7 @@
       width: 100%;
    }
 
-   .o_field_widget:not(.o_field_boolean) {
+   .o_field_widget {
       @include media-breakpoint-up(md) {
          width: 50%;
       }
